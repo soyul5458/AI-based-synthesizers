@@ -5,7 +5,7 @@
 - NVIDIA V100 (클라우드 A10은 V100과 비슷하거나 조금 낮은 성능을 가질 수 있습니다)
 - NVIDIA RTX 2080 Ti
 - NVIDIA RTX 2080
-- NVIDIA Tesla K40C
+- NVIDIA Tesla K40C    
 RTX 3090은 최신 세대의 GPU로서 가장 높은 성능을 제공하며, V100도 매우 강력한 성능을 자랑합니다. RTX 2080 Ti와 RTX 2080은 이전 세대이지만 여전히 강력한 성능을 제공하며, Tesla K40C는 상대적으로 오래된 모델로 성능이 낮습니다.
 
 ## GAN (Generative Adversarial Network)
