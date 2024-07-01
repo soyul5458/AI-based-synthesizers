@@ -24,7 +24,9 @@
       - This quality is verified at scales that are orders of magnitude larger than prior work and with missing data present. Our model achieves superior privacy and is able to easily trade off between privacy and quality. Our model is a substantial advancement compared to previous work, due to its scalability, missing data robustness, privacypreserving generation, and superior data quality.
 
   - [STaSy (Kim et al., ICLR 2023)](https://openreview.net/pdf?id=1mNssCWt_v): Use  Score-based generative models
-      - UBUNTU 18.04 LTS, PYTHON 3.8.2, PYTORCH 1.8.1, CUDA 11.4, and NVIDIA Driver 470.42.01, i9 CPU, and NVIDIA RTX 3090. 
+      - UBUNTU 18.04 LTS, PYTHON 3.8.2, PYTORCH 1.8.1, CUDA 11.4, and NVIDIA Driver 470.42.01, i9 CPU, and NVIDIA RTX 3090.
+       <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/a8729679-2da5-4864-b859-193fccc977ae" alt="image" width="300"/>
+
      ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/a8729679-2da5-4864-b859-193fccc977ae)
     
   - [CoDi (Lee et al., ICML 2023)](https://proceedings.mlr.press/v202/lee23i/lee23i.pdf): [[github]](https://github.com/ChaejeongLee/CoDi)Uses two separate diffusion models for cts and discrete variables 
