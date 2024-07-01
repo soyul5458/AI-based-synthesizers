@@ -4,10 +4,11 @@ Lei Xu, Maria Skoularidou, Alfredo Cuesta-Infante, and Kalyan Veeramachaneni. Mo
 
 
 
-- 
-- Classical GAN and VAE 기반 방법: CTGAN and TVAE (Lei Xu, Maria Skoularidou, Alfredo Cuesta-Infante, and Kalyan Veeramachaneni. Modeling tabular data using conditional gan. In Proceedings of the 33rd International Conference on Neural Information Processing Systems, pp. 7335–7345, 2019)
+## GAN (Generative Adversarial Network)
+- ["Modeling tabular data using conditional gan"](https://arxiv.org/pdf/1907.00503)
+- CTGAN and TVAE (Lei Xu, Maria Skoularidou, Alfredo Cuesta-Infante, and Kalyan Veeramachaneni. Modeling tabular data using conditional gan. In Proceedings of the 33rd International Conference on Neural Information Processing Systems, pp. 7335–7345, 2019)
 
-- VAE-based method: 
+## VAE (Variational Auto-Encoder)-based method: 
   - GOGGLE (Tennison Liu, Zhaozhi Qian, Jeroen Berrevoets, and Mihaela van der Schaar. **Goggle**: Generative modelling for tabular data by learning relational structure. In The Eleventh International Conference on Learning Representations, 2023b.)
 - Diffusion-based methods: 
   - STaSy (Kim et al., ICLR 2023): Use  Score-based generative models 
