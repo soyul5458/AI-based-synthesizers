@@ -108,10 +108,3 @@
 
 
 
-
-
-
-This is partially because generative modelling of tabular data entails a particular set of challenges, including heterogeneous relationships, limited number of samples, and difficulties in incorporating prior knowledge. 
-
-
-
