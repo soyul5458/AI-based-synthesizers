@@ -5,7 +5,10 @@ Lei Xu, Maria Skoularidou, Alfredo Cuesta-Infante, and Kalyan Veeramachaneni. Mo
 
 
 ## GAN (Generative Adversarial Network)
-- ["Modeling tabular data using conditional gan"](https://arxiv.org/pdf/1907.00503)
+- [CTGAN: Modeling tabular data using conditional gan"](https://arxiv.org/pdf/1907.00503)
+  ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/24a6e327-153f-4636-bb4d-01d2263d0f5e)
+
+  -  TVAE 성능이 더 좋지만, CTGAN이 TVAE보다 더 쉽게 differential privacy를 달성
 - CTGAN and TVAE (Lei Xu, Maria Skoularidou, Alfredo Cuesta-Infante, and Kalyan Veeramachaneni. Modeling tabular data using conditional gan. In Proceedings of the 33rd International Conference on Neural Information Processing Systems, pp. 7335–7345, 2019)
 
 ## VAE (Variational Auto-Encoder)-based method: 
