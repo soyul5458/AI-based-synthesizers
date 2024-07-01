@@ -62,6 +62,7 @@
      - STaSy보다 속도 빠름
        ```
        Chaejeong Lee, Jayoung Kim, and Noseong Park. **Codi**: Co-evolving contrastive diffusion models for mixed-type tabular synthesis. In International Conference on Machine Learning, pp. 18940–18956. PMLR, 2023.
+       
        ```
 
 
