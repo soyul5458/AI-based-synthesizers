@@ -99,6 +99,8 @@
     
 ## LLM model based 
 - [GReaT (Borisov et al., ICLR 2023)](https://arxiv.org/pdf/2210.06280): [[github]](https://github.com/kathrinse/be_great) Use Transformer-based Large Language Models (LLMs) to create synthetic data
+  - Our hardware setup consisted of two NVIDIA 2080RTX GPUs with 12 GB RAM each, 126 GB system RAM, and AMD Ryzen 3960X with 24 cores, we use the Ubuntu 20.04 operation system.
+
     ```
     Borisov, V., Seßler, K., Leemann, T., Pawelczyk, M., & Kasneci, G. (2022). Language models are realistic tabular data generators. ICLR 2023. *arXiv preprint arXiv:2210.06280*.
     ```
