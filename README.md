@@ -18,6 +18,8 @@
       - RTX 2080 Ti GPU and Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz.
    
   - [TabMT (Manbir and Roysdon, NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2023/file/90debc7cedb5cac83145fc8d18378dc5-Paper-Conference.pdf): Adopt the masked **transformer**, similar to what is used in BERT, to sequentially impute masked entries
+      - A10 GPU, 속도 느림
+      - Searching temperatures also adds time if optimal privacy is needed. Additionally, we must quantize continuous fields, while we outperform methods which do not quantize fields, this could pose issues in some applications. Future work might examine learning across tabular datasets, alternative masking procedures and networks to improve speed, or integration with diffusion models to better tackle continuous fields.
     ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/219f7846-819e-4c0d-bffb-6d126ea328cf)
 
   - [STaSy (Kim et al., ICLR 2023)](https://openreview.net/pdf?id=1mNssCWt_v): Use  Score-based generative models
