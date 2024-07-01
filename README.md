@@ -26,6 +26,18 @@
 ## VAE (Variational Auto-Encoder)-based method: 
   - GOGGLE (Tennison Liu, Zhaozhi Qian, Jeroen Berrevoets, and Mihaela van der Schaar. **Goggle**: Generative modelling for tabular data by learning relational structure. In The Eleventh International Conference on Learning Representations, 2023b.)
 
+  - 
+-  [TABSYN (Zhang et al, ICLR 2024)](https://arxiv.org/pdf/2310.09656):[[github]](https://github.com/amazon-science/tabsyn) Diffusion model within the latent variable space of VAE  
+   (1) 일반성: 다양한 데이터 타입을 단일 통합 공간으로 변환하고 열 간 관계를 명시적으로 포착할 수 있는 능력  
+   (2) 품질: 잠재 임베딩의 분포를 최적화하여 디퓨전 모델의 후속 훈련을 향상시키고, 이를 통해 고품질의 합성 데이터를 생성할 수 있음  
+   (3) 속도: 기존 디퓨전 기반 방법보다 훨씬 적은 역방향 단계와 빠른 합성 속도.
+   
+  ```
+  Mixed-type tabular data synthesis with score-based diffusion in latent space
+  ```
+   
+
+
 ## Diffusion-based methods: 
 
 
@@ -85,15 +97,6 @@
     ```
 
 
--  [TABSYN (Zhang et al, ICLR 2024)](https://arxiv.org/pdf/2310.09656):[[github]](https://github.com/amazon-science/tabsyn) Diffusion model within the latent variable space of VAE  
-   (1) 일반성: 다양한 데이터 타입을 단일 통합 공간으로 변환하고 열 간 관계를 명시적으로 포착할 수 있는 능력  
-   (2) 품질: 잠재 임베딩의 분포를 최적화하여 디퓨전 모델의 후속 훈련을 향상시키고, 이를 통해 고품질의 합성 데이터를 생성할 수 있음  
-   (3) 속도: 기존 디퓨전 기반 방법보다 훨씬 적은 역방향 단계와 빠른 합성 속도.
-   
-  ```
-  Mixed-type tabular data synthesis with score-based diffusion in latent space
-  ```
-   
 
 
 
