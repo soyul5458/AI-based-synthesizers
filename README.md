@@ -95,6 +95,7 @@
     ```
     Borisov, V., Seßler, K., Leemann, T., Pawelczyk, M., & Kasneci, G. (2022). Language models are realistic tabular data generators. ICLR 2023. *arXiv preprint arXiv:2210.06280*.
     ```
+    <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/fc59b51f-7e4d-49c1-8c92-0ec0f98c1db1" alt="image" width="500"/>
 
 
 
