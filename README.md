@@ -21,6 +21,7 @@
     ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/219f7846-819e-4c0d-bffb-6d126ea328cf)
 
   - [STaSy (Kim et al., ICLR 2023)](https://openreview.net/pdf?id=1mNssCWt_v): Use  Score-based generative models
+      - UBUNTU 18.04 LTS, PYTHON 3.8.2, PYTORCH 1.8.1, CUDA 11.4, and NVIDIA Driver 470.42.01, i9 CPU, and NVIDIA RTX 3090. 
      ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/a8729679-2da5-4864-b859-193fccc977ae)
     
   - CoDi (Lee et al., ICML 2023): Uses two separate diffusion models for cts and discrete variables 
