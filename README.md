@@ -1,21 +1,20 @@
 # AI-based-synthesizers  
 
-Lei Xu, Maria Skoularidou, Alfredo Cuesta-Infante, and Kalyan Veeramachaneni. Modeling tabular data using conditional gan. In Proceedings of the 33rd International Conference on Neural Information Processing Systems, pp. 7335–7345, 2019
-
-
-
 ## GAN (Generative Adversarial Network)
-- [CTGAN: Modeling tabular data using conditional gan"](https://arxiv.org/pdf/1907.00503)
+- [CTGAN (Xu, Lei, et al., NIPS 2019)](https://arxiv.org/pdf/1907.00503)
   ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/24a6e327-153f-4636-bb4d-01d2263d0f5e)
+  -  TVAE 성능이 더 좋지만, CTGAN이 TVAE보다 더 쉽게 differential privacy를 달성  
 
-  -  TVAE 성능이 더 좋지만, CTGAN이 TVAE보다 더 쉽게 differential privacy를 달성
-- CTGAN and TVAE (Lei Xu, Maria Skoularidou, Alfredo Cuesta-Infante, and Kalyan Veeramachaneni. Modeling tabular data using conditional gan. In Proceedings of the 33rd International Conference on Neural Information Processing Systems, pp. 7335–7345, 2019)
+- [CTABGAN+]
+
 
 ## VAE (Variational Auto-Encoder)-based method: 
   - GOGGLE (Tennison Liu, Zhaozhi Qian, Jeroen Berrevoets, and Mihaela van der Schaar. **Goggle**: Generative modelling for tabular data by learning relational structure. In The Eleventh International Conference on Learning Representations, 2023b.)
-- Diffusion-based methods: 
+
+## Diffusion-based methods: 
   - STaSy (Kim et al., ICLR 2023): Use  Score-based generative models 
-  - TabDDPM (Kotelnikov et al., 2023 ICML): Diffusion-based models
+  - [TabDDPM (Kotelnikov et al., 2023 ICML)](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf): Diffusion-based models [github](https://github.com/yandex-research/tab-ddpm)
+      - RTX 2080 Ti GPU and Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz.
   - CoDi (Lee et al., ICML 2023): Uses two separate diffusion models for cts and discrete variables 
 - LLM model based 
   - GReaT (Borisov et al., 2023): Use Transformer-based Large Language Models (LLMs) to create synthetic data 
