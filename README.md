@@ -57,6 +57,9 @@
  
 
   - [Forest-VP & Forest-Flow (Martineau et al AISTATS 2024)](https://proceedings.mlr.press/v238/jolicoeur-martineau24a/jolicoeur-martineau24a.pdf): [[github](https://github.com/SamsungSAILMontreal/ForestDiffusion)]
+    - gpu 필요없음
+    - We trained the tree-based models on a cluster of 10-20 CPUs with 64-256Gb of RAM.
+    - We trained the other models on a cluster with 8 CPUs, 1 GPU, and 48-128Gb of RAM
      - Forest-VP (Score-based diffusion models, trained with gradient-boosted tree) Forest-Flow (Flow-based model, trained with gradient-boosted tree) 
       ```
       Jolicoeur-Martineau, Alexia, Kilian Fatras, and Tal Kachman. "Generating and Imputing Tabular Data via Diffusion and Flow-based **Gradient-Boosted Trees**." *International Conference on Artificial Intelligence and Statistics*. PMLR, 2024.
