@@ -14,7 +14,7 @@
 ## Diffusion-based methods: 
 
 
-  - [TabDDPM (Kotelnikov et al., 2023 ICML)](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf): Diffusion-based models [github](https://github.com/yandex-research/tab-ddpm)
+  - [TabDDPM (Kotelnikov et al., 2023 ICML)](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf): [github](https://github.com/yandex-research/tab-ddpm) Diffusion-based models
       - RTX 2080 Ti GPU and Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz.
    
   - [TabMT (Manbir and Roysdon, NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2023/file/90debc7cedb5cac83145fc8d18378dc5-Paper-Conference.pdf): Adopt the masked **transformer**, similar to what is used in BERT, to sequentially impute masked entries
@@ -27,7 +27,7 @@
       - UBUNTU 18.04 LTS, PYTHON 3.8.2, PYTORCH 1.8.1, CUDA 11.4, and NVIDIA Driver 470.42.01, i9 CPU, and NVIDIA RTX 3090. 
      ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/a8729679-2da5-4864-b859-193fccc977ae)
     
-  - CoDi (Lee et al., ICML 2023): Uses two separate diffusion models for cts and discrete variables 
+  - [CoDi (Lee et al., ICML 2023)](https://proceedings.mlr.press/v202/lee23i/lee23i.pdf): [github](https://github.com/ChaejeongLee/CoDi)Uses two separate diffusion models for cts and discrete variables 
 - LLM model based 
   - GReaT (Borisov et al., 2023): Use Transformer-based Large Language Models (LLMs) to create synthetic data 
   - ![image-20240519194223115](AI-based synthesizers.assets/image-20240519194223115.png)
