@@ -27,7 +27,7 @@
       - UBUNTU 18.04 LTS, PYTHON 3.8.2, PYTORCH 1.8.1, CUDA 11.4, and NVIDIA Driver 470.42.01, i9 CPU, and NVIDIA RTX 3090. 
      ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/a8729679-2da5-4864-b859-193fccc977ae)
     
-  - [CoDi (Lee et al., ICML 2023)](https://proceedings.mlr.press/v202/lee23i/lee23i.pdf): [github](https://github.com/ChaejeongLee/CoDi)Uses two separate diffusion models for cts and discrete variables 
+  - [CoDi (Lee et al., ICML 2023)](https://proceedings.mlr.press/v202/lee23i/lee23i.pdf): [[github]](https://github.com/ChaejeongLee/CoDi)Uses two separate diffusion models for cts and discrete variables 
 - LLM model based 
   - GReaT (Borisov et al., 2023): Use Transformer-based Large Language Models (LLMs) to create synthetic data 
   - ![image-20240519194223115](AI-based synthesizers.assets/image-20240519194223115.png)
