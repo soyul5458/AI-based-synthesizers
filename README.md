@@ -1,6 +1,12 @@
 # AI-based-synthesizers  
 
 ## GAN (Generative Adversarial Network)
+- [Table-GAN](https://arxiv.org/pdf/1806.03384)
+  ```
+  Noseong Park, Mahmoud Mohammadi, Kshitij Gorde, Sushil Jajodia, Hongkyu Park, and Youngmin Kim. Data synthesis based on generative adversarial networks. arXiv preprint arXiv:1806.03384, 2018.
+  ```
+
+
 - [CTGAN (Xu, Lei, et al., NIPS 2019)](https://arxiv.org/pdf/1907.00503)
     -  TVAE 성능이 더 좋지만, CTGAN이 TVAE보다 더 쉽게 differential privacy를 달성  
        <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/24a6e327-153f-4636-bb4d-01d2263d0f5e" alt="image" width="500"/>
@@ -15,8 +21,6 @@
   Zhao, Z., Kunar, A., Birke, R., Van der Scheer, H., & Chen, L. Y. (2024). Ctab-gan+: Enhancing tabular data synthesis. *Frontiers in big Data*, *6*, 1296508.
   ```
 
-
-Noseong Park, Mahmoud Mohammadi, Kshitij Gorde, Sushil Jajodia, Hongkyu Park, and Youngmin Kim. Data synthesis based on generative adversarial networks. arXiv preprint arXiv:1806.03384, 2018.
 
 
 ## VAE (Variational Auto-Encoder)-based method: 
@@ -77,6 +81,7 @@ Noseong Park, Mahmoud Mohammadi, Kshitij Gorde, Sushil Jajodia, Hongkyu Park, an
 
 
 
+- [CuTS: Customizable Tabular Synthetic Data Generation](https://icml.cc/virtual/2024/poster/33789)
 
 
 
