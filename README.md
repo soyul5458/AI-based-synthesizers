@@ -79,7 +79,7 @@
 
     
 ## LLM model based 
-- GReaT (Borisov et al., 2023): Use Transformer-based Large Language Models (LLMs) to create synthetic data
+- [GReaT (Borisov et al., ICLR 2023)](https://arxiv.org/pdf/2210.06280): Use Transformer-based Large Language Models (LLMs) to create synthetic data
     ```
     Borisov, V., Seßler, K., Leemann, T., Pawelczyk, M., & Kasneci, G. (2022). Language models are realistic tabular data generators. ICLR 2023. *arXiv preprint arXiv:2210.06280*.
     ```
