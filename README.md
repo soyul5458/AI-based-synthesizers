@@ -2,7 +2,8 @@
 
 ## GAN (Generative Adversarial Network)
 - [CTGAN (Xu, Lei, et al., NIPS 2019)](https://arxiv.org/pdf/1907.00503)
-  ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/24a6e327-153f-4636-bb4d-01d2263d0f5e)
+       <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/24a6e327-153f-4636-bb4d-01d2263d0f5e" alt="image" width="500"/>
+
   -  TVAE 성능이 더 좋지만, CTGAN이 TVAE보다 더 쉽게 differential privacy를 달성  
 
 - [CTABGAN+]
