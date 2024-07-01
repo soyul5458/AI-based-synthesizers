@@ -50,6 +50,7 @@
   - [STaSy (Kim et al., ICLR 2023)](https://openreview.net/pdf?id=1mNssCWt_v): Use  Score-based generative models
       - UBUNTU 18.04 LTS, PYTHON 3.8.2, PYTORCH 1.8.1, CUDA 11.4, and NVIDIA Driver 470.42.01, i9 CPU, and NVIDIA RTX 3090.
        <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/a8729679-2da5-4864-b859-193fccc977ae" alt="image" width="400"/>
+
         ```
         Jayoung Kim, Chaejeong Lee, and Noseong Park. **Stasy**: Score-based tabular data synthesis. In The Eleventh International Conference on Learning Representations, 2023.
         ```
@@ -58,7 +59,7 @@
     
     
   - [CoDi (Lee et al., ICML 2023)](https://proceedings.mlr.press/v202/lee23i/lee23i.pdf): [[github]](https://github.com/ChaejeongLee/CoDi) Uses two separate diffusion models for continuous and discrete variables
-     - UBUNTU 18.04.6 LTS, PYTHON 3.10.8, PYTORCH 1.11.0, CUDA 11.7, and NVIDIA Driver 470.161.03, i9, CPU, and NVIDIA RTX 3090.   
+     - UBUNTU 18.04.6 LTS, PYTHON 3.10.8, PYTORCH 1.11.0, CUDA 11.7, and NVIDIA Driver 470.161.03, i9, CPU, and NVIDIA RTX 3090.     
      - STaSy보다 속도 빠름
        ```
        Chaejeong Lee, Jayoung Kim, and Noseong Park. **Codi**: Co-evolving contrastive diffusion models for mixed-type tabular synthesis. In International Conference on Machine Learning, pp. 18940–18956. PMLR, 2023.
