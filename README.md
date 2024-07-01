@@ -14,7 +14,7 @@
 ## Diffusion-based methods: 
 
 
-  - [TabDDPM (Kotelnikov et al., 2023 ICML)](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf): [github](https://github.com/yandex-research/tab-ddpm) Diffusion-based models
+  - [TabDDPM (Kotelnikov et al., 2023 ICML)](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf): [[github]](https://github.com/yandex-research/tab-ddpm) Diffusion-based models
       - RTX 2080 Ti GPU and Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz.
    
   - [TabMT (Manbir and Roysdon, NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2023/file/90debc7cedb5cac83145fc8d18378dc5-Paper-Conference.pdf): Adopt the masked **transformer**, similar to what is used in BERT, to sequentially impute masked entries
