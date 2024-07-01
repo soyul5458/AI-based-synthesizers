@@ -20,7 +20,7 @@
   - [TabMT (Manbir and Roysdon, NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2023/file/90debc7cedb5cac83145fc8d18378dc5-Paper-Conference.pdf): Adopt the masked **transformer**, similar to what is used in BERT, to sequentially impute masked entries
       - 성능은 높지만 속도 느림, All experiments were conducted using cloud A10 or V100 GPUs. For algorithm design and experiment result generation roughly 410 GPU days of compute were used. 
       - Searching temperatures also adds time if optimal privacy is needed. Additionally, we must quantize continuous fields, while we outperform methods which do not quantize fields, this could pose issues in some applications. Future work might examine learning across tabular datasets, alternative masking procedures and networks to improve speed, or integration with diffusion models to better tackle continuous fields.
-     <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/219f7846-819e-4c0d-bffb-6d126ea328cf" alt="image" width="500"/>
+       <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/219f7846-819e-4c0d-bffb-6d126ea328cf" alt="image" width="500"/>
 
       - This quality is verified at scales that are orders of magnitude larger than prior work and with missing data present. Our model achieves superior privacy and is able to easily trade off between privacy and quality. Our model is a substantial advancement compared to previous work, due to its scalability, missing data robustness, privacypreserving generation, and superior data quality.
 
