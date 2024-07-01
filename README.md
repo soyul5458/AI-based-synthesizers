@@ -26,12 +26,12 @@
 ## VAE (Variational Auto-Encoder)-based method: 
   - [GOGGLE (Liu et al, ICLR 2023)](https://openreview.net/pdf?id=fPVRcJqspu): [[github]](https://github.com/tennisonliu/GOGGLE)
     - NVIDIA Tesla K40C GPU, taking less than an hour to complete.
+
       <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/437f3c53-3a67-484f-a22e-d775308d51fa" alt="image" width="500"/>
-
-
-    ```
-    Tennison Liu, Zhaozhi Qian, Jeroen Berrevoets, and Mihaela van der Schaar. **Goggle**: Generative modelling for tabular data by learning relational structure. In The Eleventh International Conference on Learning Representations, 2023b.
-    ```
+  
+      ```
+      Tennison Liu, Zhaozhi Qian, Jeroen Berrevoets, and Mihaela van der Schaar. **Goggle**: Generative modelling for tabular data by learning relational structure. In The Eleventh International Conference on Learning Representations, 2023b.
+      ```
 
   - 
 -  [TABSYN (Zhang et al, ICLR 2024)](https://arxiv.org/pdf/2310.09656):[[github]](https://github.com/amazon-science/tabsyn) Diffusion model within the latent variable space of VAE  
