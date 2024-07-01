@@ -71,7 +71,8 @@ Noseong Park, Mahmoud Mohammadi, Kshitij Gorde, Sushil Jajodia, Hongkyu Park, an
 
 -  TABSYN (Zhang et al, ICLR 2024): Diffusion model within the latent variable space of VAE
 - Forest-VP (Score-based diffusion models, trained with gradient-boosted tree) Forest-Flow (Flow-based model, trained with gradient-boosted tree) Jolicoeur-Martineau et al ICML 2024.
-  ``` Jolicoeur-Martineau, Alexia, Kilian Fatras, and Tal Kachman. "Generating and Imputing Tabular Data via Diffusion and Flow-based **Gradient-Boosted Trees**." *International Conference on Artificial Intelligence and Statistics*. PMLR, 2024.
+  ```
+  Jolicoeur-Martineau, Alexia, Kilian Fatras, and Tal Kachman. "Generating and Imputing Tabular Data via Diffusion and Flow-based **Gradient-Boosted Trees**." *International Conference on Artificial Intelligence and Statistics*. PMLR, 2024.
   ```
 
 
