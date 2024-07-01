@@ -12,9 +12,17 @@
   - GOGGLE (Tennison Liu, Zhaozhi Qian, Jeroen Berrevoets, and Mihaela van der Schaar. **Goggle**: Generative modelling for tabular data by learning relational structure. In The Eleventh International Conference on Learning Representations, 2023b.)
 
 ## Diffusion-based methods: 
-  - STaSy (Kim et al., ICLR 2023): Use  Score-based generative models 
+
+
   - [TabDDPM (Kotelnikov et al., 2023 ICML)](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf): Diffusion-based models [github](https://github.com/yandex-research/tab-ddpm)
       - RTX 2080 Ti GPU and Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz.
+   
+  - [TabMT (Manbir and Roysdon, NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2023/file/90debc7cedb5cac83145fc8d18378dc5-Paper-Conference.pdf): Adopt the masked **transformer**, similar to what is used in BERT, to sequentially impute masked entries
+    ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/219f7846-819e-4c0d-bffb-6d126ea328cf)
+
+  - [STaSy (Kim et al., ICLR 2023)](https://openreview.net/pdf?id=1mNssCWt_v): Use  Score-based generative models
+     ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/a8729679-2da5-4864-b859-193fccc977ae)
+    
   - CoDi (Lee et al., ICML 2023): Uses two separate diffusion models for cts and discrete variables 
 - LLM model based 
   - GReaT (Borisov et al., 2023): Use Transformer-based Large Language Models (LLMs) to create synthetic data 
@@ -22,7 +30,7 @@
   - ![image-20240519194257628](AI-based synthesizers.assets/image-20240519194257628.png)
 -  TABSYN (Zhang et al, ICLR 2024): Diffusion model within the latent variable space of VAE
 - Forest-VP (Score-based diffusion models, trained with gradient-boosted tree) Forest-Flow (Flow-based model, trained with gradient-boosted tree) Jolicoeur-Martineau et al ICML 2024. 
-- **TabMT**: Adopt the masked **transformer**, similar to what is used in BERT, to sequentially impute masked entries (Manbir and Roysdon, NeurIPS 2024)
+
 
 Noseong Park, Mahmoud Mohammadi, Kshitij Gorde, Sushil Jajodia, Hongkyu Park, and Youngmin Kim. Data synthesis based on generative adversarial networks. arXiv preprint arXiv:1806.03384, 2018.
 
