@@ -32,8 +32,12 @@
 
     
     
-  - [CoDi (Lee et al., ICML 2023)](https://proceedings.mlr.press/v202/lee23i/lee23i.pdf): [[github]](https://github.com/ChaejeongLee/CoDi)Uses two separate diffusion models for cts and discrete variables 
-- LLM model based 
+  - [CoDi (Lee et al., ICML 2023)](https://proceedings.mlr.press/v202/lee23i/lee23i.pdf): [[github]](https://github.com/ChaejeongLee/CoDi) Uses two separate diffusion models for continuous and discrete variables
+        * UBUNTU 18.04.6 LTS, PYTHON 3.10.8, PYTORCH 1.11.0, CUDA 11.7, and NVIDIA Driver 470.161.03, i9, CPU, and NVIDIA RTX 3090.
+        * STaSy보다 속도 빠름
+
+    
+## LLM model based 
   - GReaT (Borisov et al., 2023): Use Transformer-based Large Language Models (LLMs) to create synthetic data 
   - ![image-20240519194223115](AI-based synthesizers.assets/image-20240519194223115.png)
   - ![image-20240519194257628](AI-based synthesizers.assets/image-20240519194257628.png)
