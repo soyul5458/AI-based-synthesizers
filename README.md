@@ -26,7 +26,7 @@
 ## VAE (Variational Auto-Encoder)-based method: 
   - [GOGGLE (Liu et al, ICLR 2023)](https://openreview.net/pdf?id=fPVRcJqspu): [[github]](https://github.com/tennisonliu/GOGGLE)
     - NVIDIA Tesla K40C GPU, taking less than an hour to complete.
-      ![image](https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/437f3c53-3a67-484f-a22e-d775308d51fa)
+      <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/437f3c53-3a67-484f-a22e-d775308d51fa" alt="image" width="500"/>
 
 
     ```
