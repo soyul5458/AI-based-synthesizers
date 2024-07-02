@@ -1,11 +1,11 @@
 # AI-based-synthesizers  
 
 ## GPU 성능 정리
-**1. NVIDIA RTX A6000**
+**1. NVIDIA RTX A6000 (중대)**
   - 메모리: 48GB GDDR6
   - 최신 Ampere 아키텍처 기반으로, 매우 높은 연산 성능과 대용량 메모리를 가지고 있습니다.
 
-**2. NVIDIA RTX 8000**
+**2. NVIDIA RTX 8000 (중대)**
   - 메모리: 48GB GDDR6
   - Turing 아키텍처 기반으로, 높은 연산 성능과 대용량 메모리를 제공합니다.
 
@@ -17,7 +17,7 @@
   - 메모리: 16GB HBM2 또는 32GB HBM2
   - Volta 아키텍처 기반으로, 딥러닝과 고성능 컴퓨팅에 최적화된 GPU입니다.
 
-**5. NVIDIA TITAN Xp**
+**5. NVIDIA TITAN Xp (서울대)**
   - 메모리: 12GB GDDR5X
   - Pascal 아키텍처 기반으로, 높은 연산 성능을 제공합니다.
 
@@ -33,6 +33,14 @@
   - 메모리: 12GB GDDR5
   - Kepler 아키텍처 기반으로, 나머지 GPU에 비해 성능이 낮습니다.
 
+## [Google Cloud GPU](https://cloud.google.com/compute/gpus-pricing?hl=ko) [계산기](https://cloud.google.com/products/calculator/?hl=ko&dl=CiQ5M2ZhYzVlMi1lMDRkLTQ0M2UtYWYyYy03NzY3NmY2NGM3N2YQEBokMzBDODk5QkEtMTUwMC00RDRELUEwMUMtNUNFQjQzNkE3RTg4)
+
+1. NVIDIA A100 : 메모리 40GB 또는 80GB HBM2e
+2. NVIDIA V100 : 메모리 16GB HBM2
+3. NVIDIA P100 : 메모리 16GB HBM2
+4. NVIDIA T4 : 16GB GDDR6
+5. NVIDIA P4 : 8GB GDDR5
+6. NVIDIA K80 : 12GB GDDR5 
 
 ## GAN (Generative Adversarial Network)
 - [Table-GAN](https://arxiv.org/pdf/1806.03384)
