@@ -3,7 +3,7 @@
 ## GPU 성능 정리
 **- NVIDIA RTX 4090 (TABSYN)**
   -  약 16,384개의 CUDA 코어를 가짐(RTX A6000, A100, V100, P100 등과 비교할 때 가장 많은 수의 CUDA 코어임)
-  -  24GB의 GDDR6X
+  -  메모리: 24GB의 GDDR6X
     
 **- NVIDIA RTX A6000 (중대)**
   - 메모리: 48GB GDDR6 (10,752개의 CUDA 코어)
