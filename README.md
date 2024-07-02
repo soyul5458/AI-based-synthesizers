@@ -33,7 +33,7 @@
   - 메모리: 12GB GDDR5
   - Kepler 아키텍처 기반으로, 나머지 GPU에 비해 성능이 낮습니다.
 
-## [Google Cloud GPU](https://cloud.google.com/compute/gpus-pricing?hl=ko) [계산기](https://cloud.google.com/products/calculator/?hl=ko&dl=CiQ5M2ZhYzVlMi1lMDRkLTQ0M2UtYWYyYy03NzY3NmY2NGM3N2YQEBokMzBDODk5QkEtMTUwMC00RDRELUEwMUMtNUNFQjQzNkE3RTg4)
+## [Google Cloud GPU](https://cloud.google.com/compute/gpus-pricing?hl=ko) [[계산기]](https://cloud.google.com/products/calculator/?hl=ko&dl=CiQ5M2ZhYzVlMi1lMDRkLTQ0M2UtYWYyYy03NzY3NmY2NGM3N2YQEBokMzBDODk5QkEtMTUwMC00RDRELUEwMUMtNUNFQjQzNkE3RTg4)
 
 1. NVIDIA A100 : 메모리 40GB 또는 80GB HBM2e
 2. NVIDIA V100 : 메모리 16GB HBM2
