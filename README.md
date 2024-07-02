@@ -67,7 +67,9 @@
 
 
 ## VAE (Variational Auto-Encoder)-based method: 
-  - [GOGGLE (Liu et al, ICLR 2023)](https://openreview.net/pdf?id=fPVRcJqspu): [[github]](https://github.com/tennisonliu/GOGGLE)
+  - [GOGGLE (Liu et al, ICLR 2023)](https://openreview.net/pdf?id=fPVRcJqspu): [[github]](https://github.com/tennisonliu/GOGGLE) 생성 모델링과 그래프 학습을 결합한 엔드투엔드 프레임워크인 GOGGLE
+    - 모델 과적합을 줄이기 위해 변수 의존성에 대한 정규화를 제안
+    - 생성 과정에 사전 지식을 포함하는 간단한 메커니즘을 제안
     - NVIDIA Tesla K40C GPU, taking less than an hour to complete.
 
       <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/437f3c53-3a67-484f-a22e-d775308d51fa" alt="image" width="500"/>
