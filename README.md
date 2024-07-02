@@ -56,7 +56,7 @@
 
 
 
-- [CTABGAN+ (Zhao, et al.,Frontiers in big Data 2024)](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2023.1296508/full)
+- [CTABGAN+ (Zhao, et al.,Frontiers in big Data 2024)](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2023.1296508/full): [[github]](https://github.com/Team-TUD/CTAB-GAN-Plus-DP)
   ```
   Zhao, Z., Kunar, A., Birke, R., & Chen, L. Y. (2021, November). Ctab-gan: Effective table data synthesizing. In *Asian Conference on Machine Learning* (pp. 97-112). PMLR.
   ```
