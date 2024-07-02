@@ -47,6 +47,10 @@
 5. NVIDIA P4 : 8GB GDDR5
 6. NVIDIA K80 : 12GB GDDR5 
 
+
+## [iwinv 서버 GPU 대여](https://www.iwinv.kr/server/gpu.html)
+RTX 4090 (16 rCore) 메모리 120GB : 1달에 590,000원+ 부가  
+
 ## GAN (Generative Adversarial Network)
 - [Table-GAN](https://arxiv.org/pdf/1806.03384)
   ```
