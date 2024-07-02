@@ -38,7 +38,9 @@
   - Kepler 아키텍처 기반으로, 나머지 GPU에 비해 성능이 낮습니다.
 
 ## [Google Cloud GPU](https://cloud.google.com/compute/gpus-pricing?hl=ko) [[계산기]](https://cloud.google.com/products/calculator/?hl=ko&dl=CiQ5M2ZhYzVlMi1lMDRkLTQ0M2UtYWYyYy03NzY3NmY2NGM3N2YQEBokMzBDODk5QkEtMTUwMC00RDRELUEwMUMtNUNFQjQzNkE3RTg4)  
- <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/c0657648-de8d-4e35-b5e8-f39b5e5ab881" alt="image" width="800"/>
+ <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/c0657648-de8d-4e35-b5e8-f39b5e5ab881" alt="image" width="800"/>  
+
+ [[설치방법]](https://jonhyuk0922.tistory.com/241)
   
 1. NVIDIA A100 : 메모리 40GB 또는 80GB HBM2e
 2. NVIDIA V100 : 메모리 16GB HBM2
@@ -50,6 +52,11 @@
 
 ## [iwinv 서버 GPU 대여](https://www.iwinv.kr/server/gpu.html)
 RTX 4090 (16 rCore) 메모리 120GB : 1달에 590,000원+ 부가  
+
+## [vast.ai](https://vast.ai/) 
+- 가격이 매우 저렴, 쓰지 않을 때 멈춰놔야 금액 지출이 안됨. 너무 오래 멈춰두면 다른 사람이 GPU를 사용하게 되어, 그 사람이 다쓸때까지 기다려야 함
+- Tensorflow, Pytorch 등 제
+- [참고 블로그}(https://ocxanc.tistory.com/52)
 
 ## GAN (Generative Adversarial Network)
 - [Table-GAN](https://arxiv.org/pdf/1806.03384)
