@@ -19,11 +19,9 @@
 
 **- NVIDIA V100 (TabMT)**
   - 메모리: 16GB HBM2 또는 32GB HBM2
-  - Volta 아키텍처 기반으로, 딥러닝과 고성능 컴퓨팅에 최적화된 GPU입니다.
 
 **- NVIDIA TITAN Xp (서울대)**
   - 메모리: 12GB GDDR5X
-  - Pascal 아키텍처 기반으로, 높은 연산 성능을 제공합니다.
 
 **- NVIDIA RTX 2080 Ti (TabDDPM)**
   - 메모리: 11GB GDDR6
