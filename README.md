@@ -1,11 +1,45 @@
 # AI-based-synthesizers  
 
 ## GPU 성능 정리
-- NVIDIA RTX 3090
+1. NVIDIA RTX A6000
+- 메모리: 48GB GDDR6
+- 최신 Ampere 아키텍처 기반으로, 매우 높은 연산 성능과 대용량 메모리를 가지고 있습니다.
+
+2. NVIDIA RTX 8000
+- 메모리: 48GB GDDR6
+- Turing 아키텍처 기반으로, 높은 연산 성능과 대용량 메모리를 제공합니다.
+
+3. NVIDIA RTX 3090
+
+메모리: 24GB GDDR6X
+최신 Ampere 아키텍처 기반으로, 뛰어난 연산 성능과 대용량 메모리를 가지고 있습니다.
+NVIDIA V100
+
+메모리: 16GB HBM2 또는 32GB HBM2
+Volta 아키텍처 기반으로, 딥러닝과 고성능 컴퓨팅에 최적화된 GPU입니다.
+NVIDIA TITAN Xp
+
+메모리: 12GB GDDR5X
+Pascal 아키텍처 기반으로, 높은 연산 성능을 제공합니다.
+NVIDIA RTX 2080 Ti
+
+메모리: 11GB GDDR6
+Turing 아키텍처 기반으로, RTX 2080보다 높은 성능을 제공합니다.
+NVIDIA RTX 2080
+
+메모리: 8GB GDDR6
+Turing 아키텍처 기반으로, RTX 2080 Ti보다 낮은 성능을 보입니다.
+NVIDIA Tesla K40C
+
+메모리: 12GB GDDR5
+Kepler 아키텍처 기반으로, 나머지 GPU에 비해 성능이 낮습니다.
+
+- NVIDIA RTX 3090, 메모 24GB의 GDDR6X
 - NVIDIA V100 (클라우드 A10은 V100과 비슷하거나 조금 낮은 성능을 가질 수 있습니다)
 - NVIDIA RTX 2080 Ti
 - NVIDIA RTX 2080
-- NVIDIA Tesla K40C    
+- NVIDIA Tesla K40C
+- NVIDIA TITAN Xp, Driver Version: 535.171.04   CUDA Version: 12.2  Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz, memory 13GB  
 RTX 3090은 최신 세대의 GPU로서 가장 높은 성능을 제공하며, V100도 매우 강력한 성능을 자랑합니다. RTX 2080 Ti와 RTX 2080은 이전 세대이지만 여전히 강력한 성능을 제공하며, Tesla K40C는 상대적으로 오래된 모델로 성능이 낮습니다.
 
 ## GAN (Generative Adversarial Network)
