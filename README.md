@@ -96,9 +96,9 @@
    (2) 품질: 잠재 임베딩의 분포를 최적화하여 디퓨전 모델의 후속 훈련을 향상시키고, 이를 통해 고품질의 합성 데이터를 생성할 수 있음  
    (3) 속도: 기존 디퓨전 기반 방법보다 훨씬 적은 역방향 단계와 빠른 합성 속도.
    
-  ```
-  Mixed-type tabular data synthesis with score-based diffusion in latent space
-  ```
+    ```
+    Mixed-type tabular data synthesis with score-based diffusion in latent space
+    ```
    
 
 
