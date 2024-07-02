@@ -167,10 +167,3 @@
 
 
 
-
-
-- [CuTS: Customizable Tabular Synthetic Data Generation, ICML 2024, POSTER](https://icml.cc/virtual/2024/poster/33789)
-
-
-
-
