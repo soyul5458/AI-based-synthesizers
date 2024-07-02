@@ -54,8 +54,8 @@
 
 ## [vast.ai](https://vast.ai/) 
 - 가격이 매우 저렴, 쓰지 않을 때 멈춰놔야 금액 지출이 안됨. 너무 오래 멈춰두면 다른 사람이 GPU를 사용하게 되어, 그 사람이 다쓸때까지 기다려야 함
-- Tensorflow, Pytorch 등 제
-- [참고 블로그}(https://ocxanc.tistory.com/52)
+- Tensorflow, Pytorch 등 프레임워크 제공함
+- [참고 블로그](https://ocxanc.tistory.com/52)
 
 ## GAN (Generative Adversarial Network)
 - [Table-GAN](https://arxiv.org/pdf/1806.03384)
