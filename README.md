@@ -56,7 +56,7 @@
 
 
 
-- [CTABGAN+]
+- [CTABGAN+ (Zhao, et al.,Frontiers in big Data 2024)](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2023.1296508/full)
   ```
   Zhao, Z., Kunar, A., Birke, R., & Chen, L. Y. (2021, November). Ctab-gan: Effective table data synthesizing. In *Asian Conference on Machine Learning* (pp. 97-112). PMLR.
   ```
@@ -114,11 +114,11 @@
 
   - [STaSy (Kim et al., ICLR 2023)](https://openreview.net/pdf?id=1mNssCWt_v): Use  Score-based generative models
       - UBUNTU 18.04 LTS, PYTHON 3.8.2, PYTORCH 1.8.1, CUDA 11.4, and NVIDIA Driver 470.42.01, i9 CPU, and NVIDIA RTX 3090.
-       <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/a8729679-2da5-4864-b859-193fccc977ae" alt="image" width="400"/>
+       <img src="https://github.com/soyul5458/AI-based-synthesizers/assets/54921677/a8729679-2da5-4864-b859-193fccc977ae" alt="image" width="400"/>  
 
-        ```
-        Jayoung Kim, Chaejeong Lee, and Noseong Park. **Stasy**: Score-based tabular data synthesis. In The Eleventh International Conference on Learning Representations, 2023.
-        ```
+          ```
+          Jayoung Kim, Chaejeong Lee, and Noseong Park. **Stasy**: Score-based tabular data synthesis. In The Eleventh International Conference on Learning Representations, 2023.
+          ```
  
 
   - [Forest-VP & Forest-Flow (Martineau et al AISTATS 2024)](https://proceedings.mlr.press/v238/jolicoeur-martineau24a/jolicoeur-martineau24a.pdf): [[github](https://github.com/SamsungSAILMontreal/ForestDiffusion)]
