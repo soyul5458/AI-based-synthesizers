@@ -1,21 +1,18 @@
 # AI-based-synthesizers  
 
-## GPU 성능 정리
+## GPU 성능 정리 (순서대로 성능 좋음)
 **- NVIDIA RTX 4090 (TABSYN)**
   -  약 16,384개의 CUDA 코어를 가짐(RTX A6000, A100, V100, P100 등과 비교할 때 가장 많은 수의 CUDA 코어임)
   -  메모리: 24GB의 GDDR6X
     
 **- NVIDIA RTX A6000 (중대)**
   - 메모리: 48GB GDDR6 (10,752개의 CUDA 코어)
-  - 최신 Ampere 아키텍처 기반으로, 매우 높은 연산 성능과 대용량 메모리를 가지고 있습니다.
 
 **- NVIDIA RTX 8000 (중대)**
   - 메모리: 48GB GDDR6
-  - Turing 아키텍처 기반으로, 높은 연산 성능과 대용량 메모리를 제공합니다.
 
 **- NVIDIA RTX 3090 (STaSy, CoDi)**
   - 메모리: 24GB GDDR6X
-  - 최신 Ampere 아키텍처 기반으로, 뛰어난 연산 성능과 대용량 메모리를 가지고 있습니다.
 
 **- NVIDIA V100 (TabMT)**
   - 메모리: 16GB HBM2 또는 32GB HBM2
