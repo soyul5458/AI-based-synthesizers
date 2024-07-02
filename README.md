@@ -1,35 +1,35 @@
 # AI-based-synthesizers  
 
 ## GPU 성능 정리
-1. NVIDIA RTX A6000
+**1. NVIDIA RTX A6000**
   - 메모리: 48GB GDDR6
   - 최신 Ampere 아키텍처 기반으로, 매우 높은 연산 성능과 대용량 메모리를 가지고 있습니다.
 
-2. NVIDIA RTX 8000
+**2. NVIDIA RTX 8000**
   - 메모리: 48GB GDDR6
   - Turing 아키텍처 기반으로, 높은 연산 성능과 대용량 메모리를 제공합니다.
 
-3. NVIDIA RTX 3090
+**3. NVIDIA RTX 3090**
   - 메모리: 24GB GDDR6X
   - 최신 Ampere 아키텍처 기반으로, 뛰어난 연산 성능과 대용량 메모리를 가지고 있습니다.
 
-4. NVIDIA V100
+**4. NVIDIA V100**
   - 메모리: 16GB HBM2 또는 32GB HBM2
   - Volta 아키텍처 기반으로, 딥러닝과 고성능 컴퓨팅에 최적화된 GPU입니다.
 
-5. NVIDIA TITAN Xp
+**5. NVIDIA TITAN Xp**
   - 메모리: 12GB GDDR5X
   - Pascal 아키텍처 기반으로, 높은 연산 성능을 제공합니다.
 
-6. NVIDIA RTX 2080 Ti
+**6. NVIDIA RTX 2080 Ti**
   - 메모리: 11GB GDDR6
   - Turing 아키텍처 기반으로, RTX 2080보다 높은 성능을 제공합니다.
 
-7. NVIDIA RTX 2080
+**7. NVIDIA RTX 2080**
   - 메모리: 8GB GDDR6
   - Turing 아키텍처 기반으로, RTX 2080 Ti보다 낮은 성능을 보입니다.
 
-8. NVIDIA Tesla K40C
+**8. NVIDIA Tesla K40C**
   - 메모리: 12GB GDDR5
   - Kepler 아키텍처 기반으로, 나머지 GPU에 비해 성능이 낮습니다.
 
