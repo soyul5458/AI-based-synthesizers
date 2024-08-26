@@ -105,6 +105,13 @@
 ## Diffusion-based methods: 
 
 
+  - [AutoDiff, 2023 NeurIP](https://openreview.net/pdf?id=XhxOCXlXSh)
+    ![image](https://github.com/user-attachments/assets/d376eeb4-4cc7-4f0b-8654-035c33d07903)
+
+    ```
+    AutoDiff: combining Auto-encoder and Diffusion model for tabular data synthesizing
+    ```
+
   - [TabDDPM (Kotelnikov et al., 2023 ICML)](https://proceedings.mlr.press/v202/kotelnikov23a/kotelnikov23a.pdf): [[github]](https://github.com/yandex-research/tab-ddpm) Diffusion-based models
       - RTX 2080 Ti GPU and Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz.
         ```
